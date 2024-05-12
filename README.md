@@ -1,3 +1,6 @@
+# Function and Errors
+Module 1 assessment covers require, assert, and revert of solidity in Metacrafter's avalanche module.
+
 # Description
 require - When creating solidity contracts that are trustworthy and secure, the must function is essential. You may improve the overall logic integrity of your contract and validate inputs and enforce conditions by using the require function effectively. This post will provide you important tips on how to make the most of the require function in your Solidity contracts to maintain stability and reduce any potential vulnerabilities.
 
