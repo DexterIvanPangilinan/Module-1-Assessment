@@ -32,3 +32,5 @@ contract Module1assessment {
         }
     }
 }
+# Author
+Dexter Ivan A. Pangilinan 3.1 BSIT
